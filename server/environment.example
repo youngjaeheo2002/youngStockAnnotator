@@ -1,0 +1,3 @@
+#MAKE A FILE CALLED .env and put it into SERVER direcotry
+PORT=
+MONGODB_URI=
